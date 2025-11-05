@@ -215,14 +215,14 @@ stage, which is closely related to the occurrence of
 hallucinations.
 
 <p align="center">
-  <img src="./figures/ha.jpg" alt="main" width="50%">
+  <img src="./figures/ha.jpg" alt="main" width="40%">
   <br>
   <em>Figure 3: LLM decoder attention map of "plant" token (non-hallucinatory). It is evident that attention can
 accurately locate the position of the plotted plant.</em>
 </p>
 
 <p align="center">
-  <img src="./figures/non-ha.jpg" alt="main" width="50%">
+  <img src="./figures/non-ha.jpg" alt="main" width="40%">
   <br>
   <em>Figure 4: LLM decoder attention map of "clock" token (hallucinatory). The attention mainly focus on the
 outlier tokens in the background, whose positions are
@@ -238,37 +238,42 @@ The results demonstrate that our approach significantly reduces the impact of th
 tokens, thus effectively alleviating the hallucination of LVLMs. 
 
 <p align="center">
- <em>POPE.</em>
- <br>
-  <img src="./figures/pope.png" alt="main" width="80%">
+  <img src="./figures/pope.png" alt="main" width="60%">
    <br>
-  <em>CHAIR.</em>
-   <br>
-  <img src="./figures/chair.png" alt="main" width="40%">
-   <br>
-  <em>MME.</em>
-   <br>
-  <img src="./figures/mme.png" alt="main" width="50%">
-   <br>
-<em>GPT4V.</em>
-   <br>
-  <img src="./figures/gpt4v.png" alt="main" width="40%">
-   <br>
+   <em> Figure 5: POPE.</em>
 </p>
 
+<p align="center">
+  <img src="./figures/chair.png" alt="main" width="30%">
+   <br>
+   <em> Figure 6: CHAIR.</em>
+</p>
+
+<p align="center">
+  <img src="./figures/mme.png" alt="main" width="40%">
+   <br>
+   <em> Figure 7: MME.</em>
+</p>
+
+<p align="center">
+  <img src="./figures/gpt4v.png" alt="main" width="30%">
+   <br>
+   <em> Figure 8: GPT4V.</em>
+</p>
 
 ## 📌 Examples
 <p align="center">
-  <img src="./figures/case1.png" alt="main" width="80%">
+  <img src="./figures/case1.png" alt="main" width="60%">
   <br>
   <em>Figure 7: DAMRO’s performance on reducing hallucinations on on InstructBLIP.</em>
 </p>
 
 <p align="center">
-  <img src="./figures/case2.png" alt="main" width="80%">
+  <img src="./figures/case2.png" alt="main" width="60%">
   <br>
   <em>Figure 8: DAMRO’s performance on reducing hallucinations on LLaVA-1.5-7b.</em>
 </p>
+
 
 
 ## 🥰 Acknowledgements
