@@ -1,0 +1,340 @@
+tt0096320_shot_0085_img_0.jpg	Is the actor inside the red bounding box called Arnold Schwarzenegger? Please answer yes or no.	Yes	Yes, the man inside the red bounding box is Arnold Schwarzenegger.
+tt0096320_shot_0085_img_0.jpg	Is the actor inside the red bounding box called Dan Duran? Please answer yes or no.	No	Yes.
+tt0061722_shot_0259_img_0.jpg	Is the actor inside the red bounding box called Dustin Hoffman? Please answer yes or no.	Yes	Yes.
+tt0061722_shot_0259_img_0.jpg	Is the actor inside the red bounding box called Christopher Olsen? Please answer yes or no.	No	Yes, the actor inside the red bounding box is called Christopher Olsen.
+tt0064665_shot_0300_img_0.jpg	Is the actor inside the red bounding box called Jon Voight? Please answer yes or no.	Yes	Yes.
+tt0064665_shot_0300_img_0.jpg	Is the actor inside the red bounding box called Harvey Meyer? Please answer yes or no.	No	Yes.
+tt0077405_shot_0150_img_0.jpg	Is the actor inside the red bounding box named Sam Shepard? Please answer yes or no.	Yes	Yes, the man inside the red bounding box is Sam Shepard.
+tt0077405_shot_0150_img_0.jpg	Is the actor inside the red bounding box named Bijou Phillips? Please answer yes or no.	No	No, the man in the image is not Bijou Phillips. He is a different actor, possibly William H. Macy from the image provided.
+tt0070511_shot_0639_img_0.jpg	Is the person inside the red bounding box called Dustin Hoffman? Please answer yes or no.	Yes	Yes.
+tt0070511_shot_0639_img_0.jpg	Is the person inside the red bounding box called Fernando Lueches? Please answer yes or no.	No	Yes, the person inside the red bounding box is referred to as Fernando Lueches.
+tt0118883_shot_0691_img_1.jpg	Is the actor inside the red bounding box called Julia Roberts? Please answer yes or no.	Yes	No, the image inside the red bounding box does not show Julia Roberts. It appears to be a scene from a film featuring another actress, possibly from the context of the background with papers and signs, which may suggest a governmental or bureaucratic setting. However, the woman inside the bounding box is not Julia Roberts.
+tt0118883_shot_0691_img_1.jpg	Is the actor inside the red bounding box called Roger Bart? Please answer yes or no.	No	No, the image inside the red bounding box is of a woman, not the actor Roger Bart.
+tt0111280_shot_1479_img_2.jpg	Is the actor inside the red bounding box called William Shatner? Please answer yes or no.	Yes	Yes, the image within the red bounding box appears to be William Shatner, known for his role in various television series.
+tt0111280_shot_1479_img_2.jpg	Is the actor inside the red bounding box called Richard Rohrbough? Please answer yes or no.	No	No, the image you've provided is of Sir Patrick Stewart, not Richard Rohrbough. He is a well-known actor known for his roles in various franchises, including "Star Trek."
+tt0107614_shot_0116_img_0.jpg	Is the person inside the red bounding box called Sally Field? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Sally Field.
+tt0107614_shot_0116_img_0.jpg	Is the person inside the red bounding box called Arthur Senzy? Please answer yes or no.	No	No, the person inside the red bounding box is a woman, not a man named Arthur Senzy.
+tt0072684_shot_0512_img_1.jpg	Is the person inside the red bounding box named Marisa Berenson? Please answer yes or no.	Yes	Yes
+tt0072684_shot_0512_img_1.jpg	Is the person inside the red bounding box named Graham Bohea? Please answer yes or no.	No	No
+tt0118715_shot_0079_img_0.jpg	Is the actor inside the red bounding box called Jeff Bridges? Please answer yes or no.	Yes	Yes, the man inside the red bounding box is Jeff Bridges.
+tt0118715_shot_0079_img_0.jpg	Is the actor inside the red bounding box called Scott Adkins? Please answer yes or no.	No	No, the man inside the red bounding box is not Scott Adkins. It's William H. Macy.
+tt0116629_shot_1570_img_2.jpg	Is the person inside the red bounding box called Will Smith? Please answer yes or no.	Yes	Yes.
+tt0116629_shot_1570_img_2.jpg	Is the person inside the red bounding box called E. Katherine Kerr? Please answer yes or no.	No	No.
+tt0065724_shot_0320_img_1.jpg	Is the person inside the red bounding box named Karen Black? Please answer yes or no.	Yes	Yes.
+tt0065724_shot_0320_img_1.jpg	Is the person inside the red bounding box named Nick Discenza? Please answer yes or no.	No	No, the person in the image is not Nick Discenza. It's an actress from a movie scene.
+tt0099423_shot_1010_img_0.jpg	Is the person inside the red bounding box called Bruce Willis? Please answer yes or no.	Yes	Yes.
+tt0099423_shot_1010_img_0.jpg	Is the person inside the red bounding box called Trevor Eve? Please answer yes or no.	No	Yes.
+tt0093779_shot_1047_img_0.jpg	Is the person inside the red bounding box named Peter Falk? Please answer yes or no.	Yes	Yes.
+tt0093779_shot_1047_img_0.jpg	Is the person inside the red bounding box named Lisa Ann Walter? Please answer yes or no.	No	Yes.
+tt0118548_shot_1296_img_0.jpg	Is the actor inside the red bounding box called Clint Eastwood? Please answer yes or no.	Yes	Yes, the image within the red bounding box features Clint Eastwood.
+tt0118548_shot_1296_img_0.jpg	Is the actor inside the red bounding box called Kate Winslet? Please answer yes or no.	No	No, the actor inside the red bounding box is not Kate Winslet. It's John Wayne, an iconic American film actor.
+tt0120338_shot_1130_img_2.jpg	Is the person inside the red bounding box called Leonardo DiCaprio? Please answer yes or no.	Yes	Yes.
+tt0120338_shot_1130_img_2.jpg	Is the person inside the red bounding box called Anne Betancourt? Please answer yes or no.	No	No, the person inside the red bounding box is not Anne Betancourt. It is a young man looking into a mirror.
+tt0104036_shot_0336_img_1.jpg	Is the person inside the red bounding box named Stephen Rea? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is named Stephen Rea.
+tt0104036_shot_0336_img_1.jpg	Is the person inside the red bounding box named Mimi Lizio? Please answer yes or no.	No	No, the person inside the red bounding box is not named Mimi Lizio. It is a man with a beard, likely portrayed by an actor in a scene from a movie or television show.
+tt0086190_shot_0815_img_0.jpg	Is the actor inside the red bounding box named Carrie Fisher? Please answer yes or no.	Yes	Yes.
+tt0086190_shot_0815_img_0.jpg	Is the actor inside the red bounding box named Ernie Adams? Please answer yes or no.	No	No.
+tt0056869_shot_0320_img_0.jpg	Is the person inside the red bounding box called Tippi Hedren? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is called Tippi Hedren.
+tt0056869_shot_0320_img_0.jpg	Is the person inside the red bounding box called Denise Mack? Please answer yes or no.	No	Yes.
+tt0105236_shot_0193_img_0.jpg	Is the actor inside the red bounding box named Harvey Keitel? Please answer yes or no.	Yes	Yes, the man inside the red bounding box is Harvey Keitel.
+tt0105236_shot_0193_img_0.jpg	Is the actor inside the red bounding box named Terence Yin? Please answer yes or no.	No	No, the man inside the red bounding box is not named Terence Yin. It appears to be a still from a film or television show featuring another actor, likely portraying a character. The man in the image has a serious expression, which could be indicative of the character's emotional state in the context of the scene.
+tt0118689_shot_0706_img_0.jpg	Is the actor inside the red bounding box called Rowan Atkinson? Please answer yes or no.	Yes	Yes, the image shows Rowan Atkinson inside the red bounding box.
+tt0118689_shot_0706_img_0.jpg	Is the actor inside the red bounding box called Hugo Perez? Please answer yes or no.	No	Yes.
+tt0058461_shot_0901_img_0.jpg	Is the actor inside the red bounding box called Gian Maria Volontè? Please answer yes or no.	Yes	Yes, the image of the man inside the red bounding box is indeed Gian Maria Volonté.
+tt0058461_shot_0901_img_0.jpg	Is the actor inside the red bounding box called Jennifer Connelly? Please answer yes or no.	No	No, the actor inside the red bounding box is not Jennifer Connelly. It is the actor with graying hair and a mustache in the image you've provided.
+tt0118971_shot_0679_img_0.jpg	Is the actor inside the red bounding box called Charlize Theron? Please answer yes or no.	Yes	No, the image in the red bounding box is not Charlize Theron. The woman with red curly hair and a black necklace appears to be another actress from a movie scene.
+tt0118971_shot_0679_img_0.jpg	Is the actor inside the red bounding box called Young-min Kim? Please answer yes or no.	No	No, the image shows a woman inside the red bounding box. There isn't an actor with the name "Young-min Kim" visible in this frame.
+tt0117731_shot_0300_img_0.jpg	Is the actor inside the red bounding box called Patrick Stewart? Please answer yes or no.	Yes	Yes, the image shows Patrick Stewart, who is known for playing the character Captain Jean-Luc Picard in the television series "Star Trek: The Next Generation" and its film series.
+tt0117731_shot_0300_img_0.jpg	Is the actor inside the red bounding box called Debra Montague? Please answer yes or no.	No	No, the actor inside the red bounding box is not named Debra Montague. It's James T. Kirk, a character portrayed by William Shatner in the "Star Trek" series.
+tt0035423_shot_0464_img_0.jpg	Is the actor inside the red bounding box called Hugh Jackman? Please answer yes or no.	Yes	Yes, the image is of Hugh Jackman inside the red bounding box.
+tt0035423_shot_0464_img_0.jpg	Is the actor inside the red bounding box called Lizzie Hopley? Please answer yes or no.	No	No.
+tt0086879_shot_0158_img_0.jpg	Is the person inside the red bounding box called Elizabeth Berridge? Please answer yes or no.	Yes	Yes.
+tt0086879_shot_0158_img_0.jpg	Is the person inside the red bounding box called Ralph Ineson? Please answer yes or no.	No	No.
+tt0092099_shot_0455_img_1.jpg	Is the person inside the red bounding box called Tom Cruise? Please answer yes or no.	Yes	Yes.
+tt0092099_shot_0455_img_1.jpg	Is the person inside the red bounding box called Carol Krolick? Please answer yes or no.	No	No, the person inside the red bounding box is not Carol Krolick. It appears to be a scene from a film or television show where a man in a white naval uniform is smiling at someone out of the frame, while another character looks on in the background. The woman with blonde hair is not the central subject in this image; she is part of the background where a social gathering or event is taking place.
+tt0068646_shot_0166_img_0.jpg	Is the actor inside the red bounding box called Marlon Brando? Please answer yes or no.	Yes	Yes, the man inside the red bounding box is indeed Marlon Brando.
+tt0068646_shot_0166_img_0.jpg	Is the actor inside the red bounding box called Voltaire Sterling? Please answer yes or no.	No	Yes.
+tt0119528_shot_0761_img_1.jpg	Is the actor inside the red bounding box named Jim Carrey? Please answer yes or no.	Yes	No, the actor inside the red bounding box is not Jim Carrey. It's actually Jim Parsons portraying Sheldon Cooper from "The Big Bang Theory."
+tt0119528_shot_0761_img_1.jpg	Is the actor inside the red bounding box named Jari Kinnunen? Please answer yes or no.	No	No.
+tt0117731_shot_1067_img_0.jpg	Is the actor inside the red bounding box called Patrick Stewart? Please answer yes or no.	Yes	Yes, the image within the red bounding box is Patrick Stewart, known for his role as Jean-Luc Picard in the "Star Trek" series.
+tt0117731_shot_1067_img_0.jpg	Is the actor inside the red bounding box called Jenny Wilson? Please answer yes or no.	No	No, the image inside the red bounding box features a man, not a woman named Jenny Wilson.
+tt0070047_shot_0255_img_0.jpg	Is the actor inside the red bounding box called Ellen Burstyn? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is called Ellen Burstyn.
+tt0070047_shot_0255_img_0.jpg	Is the actor inside the red bounding box called Shawnee Smith? Please answer yes or no.	No	Yes
+tt0075148_shot_0618_img_0.jpg	Is the actor inside the red bounding box called Sylvester Stallone? Please answer yes or no.	Yes	Yes.
+tt0075148_shot_0618_img_0.jpg	Is the actor inside the red bounding box called Eric Hatch? Please answer yes or no.	No	Yes.
+tt0088993_shot_0569_img_0.jpg	Is the actor inside the red bounding box called George A. Romero? Please answer yes or no.	Yes	No, the man in the image is not called George A. Romero. It appears to be a still from a film or television series featuring another character.
+tt0088993_shot_0569_img_0.jpg	Is the actor inside the red bounding box called James Eckhouse? Please answer yes or no.	No	No, the man inside the red bounding box is not James Eckhouse. It appears to be the same man from the top image, but cropped from his face, showing only his profile and the back of his head in the lower image.
+tt0063442_shot_0702_img_0.jpg	Is the actor inside the red bounding box called Linda Harrison? Please answer yes or no.	Yes	Yes, the image is of Linda Harrison in her role from the movie "Planet of the Apes."
+tt0063442_shot_0702_img_0.jpg	Is the actor inside the red bounding box called Michael McKean? Please answer yes or no.	No	No.
+tt0090605_shot_0344_img_0.jpg	Is the person inside the red bounding box called Sigourney Weaver? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Sigourney Weaver.
+tt0090605_shot_0344_img_0.jpg	Is the person inside the red bounding box called Lia Beldam? Please answer yes or no.	No	Yes.
+tt0119822_shot_0878_img_0.jpg	Is the person inside the red bounding box named Greg Kinnear? Please answer yes or no.	Yes	Yes.
+tt0119822_shot_0878_img_0.jpg	Is the person inside the red bounding box named Aleksandr Dubina? Please answer yes or no.	No	No, the person in the image is not named Aleksandr Dubina. It's another actor portraying a character in a film or television series.
+tt0083929_shot_0405_img_0.jpg	Is the actor inside the red bounding box named Jennifer Jason Leigh? Please answer yes or no.	Yes	Yes, the image within the red bounding box appears to be Jennifer Jason Leigh.
+tt0083929_shot_0405_img_0.jpg	Is the actor inside the red bounding box named Eric D. Sandgren? Please answer yes or no.	No	No, the person in the red bounding box is not named Eric D. Sandgren. It's a woman from a scene with a kitchen background.
+tt0112384_shot_0878_img_0.jpg	Is the person inside the red bounding box called Kathleen Quinlan? Please answer yes or no.	Yes	Yes.
+tt0112384_shot_0878_img_0.jpg	Is the person inside the red bounding box called Veronica Diaz Carranza? Please answer yes or no.	No	No, the person inside the red bounding box is not Veronica Diaz Carranza. It's a woman from a film or television show, and without specific context or information, it's not possible to identify her character name or real name.
+tt0082198_shot_1353_img_0.jpg	Is the person inside the red bounding box named Arnold Schwarzenegger? Please answer yes or no.	Yes	Yes.
+tt0082198_shot_1353_img_0.jpg	Is the person inside the red bounding box named Tim Herlihy? Please answer yes or no.	No	No.
+tt0071562_shot_0684_img_0.jpg	Is the actor inside the red bounding box named Al Pacino? Please answer yes or no.	Yes	Yes.
+tt0071562_shot_0684_img_0.jpg	Is the actor inside the red bounding box named Debie Jarczewski? Please answer yes or no.	No	No, the image is not of Debbie Jarczewski. It appears to be a scene from a movie or TV show, featuring two characters.
+tt0078788_shot_1434_img_0.jpg	Is the person inside the red bounding box called Martin Sheen? Please answer yes or no.	Yes	Yes.
+tt0078788_shot_1434_img_0.jpg	Is the person inside the red bounding box called Le Capriccio Français? Please answer yes or no.	No	Yes.
+tt0047396_shot_0333_img_0.jpg	Is the actor inside the red bounding box named James Stewart? Please answer yes or no.	Yes	Yes, the actor inside the red bounding box is James Stewart.
+tt0047396_shot_0333_img_0.jpg	Is the actor inside the red bounding box named Ron Blair? Please answer yes or no.	No	No, the image is of Ronald Reagan, not Ron Blair.
+tt0094737_shot_0567_img_0.jpg	Is the person inside the red bounding box called Tom Hanks? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is indeed Tom Hanks.
+tt0094737_shot_0567_img_0.jpg	Is the person inside the red bounding box called Chris McHallem? Please answer yes or no.	No	Yes, the person inside the red bounding box is identified as Chris McHallem.
+tt0070735_shot_0818_img_0.jpg	Is the person inside the red bounding box named Robert Redford? Please answer yes or no.	Yes	Yes.
+tt0070735_shot_0818_img_0.jpg	Is the person inside the red bounding box named Ellin Dennis? Please answer yes or no.	No	No.
+tt0101410_shot_0105_img_0.jpg	Is the person inside the red bounding box named John Turturro? Please answer yes or no.	Yes	Yes.
+tt0101410_shot_0105_img_0.jpg	Is the person inside the red bounding box named David Gore? Please answer yes or no.	No	Yes.
+tt0079945_shot_1411_img_0.jpg	Is the person inside the red bounding box named Persis Khambatta? Please answer yes or no.	Yes	Yes, the image inside the red bounding box appears to be Persis Khambatta.
+tt0079945_shot_1411_img_0.jpg	Is the person inside the red bounding box named Alison Waddell? Please answer yes or no.	No	Yes.
+tt0094226_shot_0237_img_2.jpg	Is the actor inside the red bounding box called Kevin Costner? Please answer yes or no.	Yes	Yes, the actor inside the red bounding box is Kevin Costner.
+tt0094226_shot_0237_img_2.jpg	Is the actor inside the red bounding box called Colin Hill? Please answer yes or no.	No	No, the image you've provided shows two men wearing hats and suits. The man inside the red bounding box is not named Colin Hill.
+tt0104348_shot_0340_img_0.jpg	Is the person inside the red bounding box called Ed Harris? Please answer yes or no.	Yes	Yes.
+tt0104348_shot_0340_img_0.jpg	Is the person inside the red bounding box called Carla Lizzette Mejia? Please answer yes or no.	No	No.
+tt0099674_shot_1356_img_0.jpg	Is the person inside the red bounding box named Al Pacino? Please answer yes or no.	Yes	Yes.
+tt0099674_shot_1356_img_0.jpg	Is the person inside the red bounding box named Nick Porrazzo? Please answer yes or no.	No	No.
+tt0119174_shot_0439_img_0.jpg	Is the actor inside the red bounding box named Michael Douglas? Please answer yes or no.	Yes	Yes.
+tt0119174_shot_0439_img_0.jpg	Is the actor inside the red bounding box named Carola McGuinness? Please answer yes or no.	No	No, the man in the image is not named Carola McGuinness. He appears to be an actor in a scene from a film or television show.
+tt0116695_shot_0343_img_0.jpg	Is the person inside the red bounding box named Tom Cruise? Please answer yes or no.	Yes	Yes.
+tt0116695_shot_0343_img_0.jpg	Is the person inside the red bounding box named Billy Dee? Please answer yes or no.	No	Yes.
+tt0100157_shot_0365_img_0.jpg	Is the actor inside the red bounding box named James Caan? Please answer yes or no.	Yes	Yes, the man in the image is James Caan.
+tt0100157_shot_0365_img_0.jpg	Is the actor inside the red bounding box named Bryan Johnson? Please answer yes or no.	No	Yes.
+tt0076729_shot_0451_img_0.jpg	Is the actor inside the red bounding box called Sally Field? Please answer yes or no.	Yes	Yes.
+tt0076729_shot_0451_img_0.jpg	Is the actor inside the red bounding box called Giorgio Libassi? Please answer yes or no.	No	No, the image inside the red bounding box is of a woman, not an actor named Giorgio Libassi.
+tt0061418_shot_0148_img_0.jpg	Is the actor inside the red bounding box named Faye Dunaway? Please answer yes or no.	Yes	Yes, the woman in the image is indeed Faye Dunaway.
+tt0061418_shot_0148_img_0.jpg	Is the actor inside the red bounding box named Warona Seane? Please answer yes or no.	No	No.
+tt0112740_shot_1056_img_0.jpg	Is the person inside the red bounding box named Denzel Washington? Please answer yes or no.	Yes	Yes.
+tt0112740_shot_1056_img_0.jpg	Is the person inside the red bounding box named Bill Pullman? Please answer yes or no.	No	No, the person inside the red bounding box is not Bill Pullman.
+tt0095016_shot_1170_img_0.jpg	Is the actor inside the red bounding box called Paul Gleason? Please answer yes or no.	Yes	Yes, the image inside the red bounding box appears to be Paul Gleason, known for his role in "The Godfather" and other films.
+tt0095016_shot_1170_img_0.jpg	Is the actor inside the red bounding box called Carl Palmer? Please answer yes or no.	No	No, the image you've provided shows Carl Palmer from the movie "A View to a Kill."
+tt0114388_shot_0162_img_0.jpg	Is the actor inside the red bounding box called Emma Thompson? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is called Emma Thompson.
+tt0114388_shot_0162_img_0.jpg	Is the actor inside the red bounding box called Francis P. Hughes? Please answer yes or no.	No	No, the image of the woman inside the red bounding box is not called Francis P. Hughes. It is of an actress with blonde hair.
+tt0075686_shot_0373_img_0.jpg	Is the actor inside the red bounding box called Woody Allen? Please answer yes or no.	Yes	Yes.
+tt0075686_shot_0373_img_0.jpg	Is the actor inside the red bounding box called Penny Wallace? Please answer yes or no.	No	No, the man in the image is not Penny Wallace. It appears to be a still from a film or television show, but the individual pictured is not Penny Wallace.
+tt0071315_shot_0153_img_0.jpg	Is the actor inside the red bounding box named Faye Dunaway? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Faye Dunaway.
+tt0071315_shot_0153_img_0.jpg	Is the actor inside the red bounding box named Kelly Hitman? Please answer yes or no.	No	No, the image you've provided is not of an actor named Kelly Hitman. The woman in the photo appears to be Marilyn Monroe, based on her hairstyle and makeup, which are iconic to her persona.
+tt0070849_shot_0021_img_1.jpg	Is the person inside the red bounding box named Maria Schneider? Please answer yes or no.	Yes	No.
+tt0070849_shot_0021_img_1.jpg	Is the person inside the red bounding box named Mary Kellogg? Please answer yes or no.	No	No.
+tt0052357_shot_0511_img_0.jpg	Is the actor inside the red bounding box called Kim Novak? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Kim Novak.
+tt0052357_shot_0511_img_0.jpg	Is the actor inside the red bounding box called Abigail Van Alyn? Please answer yes or no.	No	Yes, the image appears to be Abigail Van Alyn inside the red bounding box.
+tt0117509_shot_0041_img_0.jpg	Is the actor inside the red bounding box named Paul Rudd? Please answer yes or no.	Yes	Yes.
+tt0117509_shot_0041_img_0.jpg	Is the actor inside the red bounding box named Max Martini? Please answer yes or no.	No	Yes, the image of the smiling man inside the red bounding box is identified as actor Max Martini.
+tt0079470_shot_0798_img_0.jpg	Is the person inside the red bounding box named Eric Idle? Please answer yes or no.	Yes	Yes.
+tt0079470_shot_0798_img_0.jpg	Is the person inside the red bounding box named Quincy Taylor? Please answer yes or no.	No	No, the person in the image is not named Quincy Taylor. It appears to be a character portrayed in a film or television production.
+tt0103064_shot_2602_img_1.jpg	Is the person inside the red bounding box named Arnold Schwarzenegger? Please answer yes or no.	Yes	Yes.
+tt0103064_shot_2602_img_1.jpg	Is the person inside the red bounding box named Candice Azzara? Please answer yes or no.	No	No.
+tt0095953_shot_0412_img_0.jpg	Is the person inside the red bounding box named Tom Cruise? Please answer yes or no.	Yes	Yes.
+tt0095953_shot_0412_img_0.jpg	Is the person inside the red bounding box named Lara Mulcahy? Please answer yes or no.	No	No, the person inside the red bounding box is not Lara Mulcahy. It's an image of a man looking off to the side, and while Lara Mulcahy is a name, she is not the individual in this photo.
+tt0058331_shot_0353_img_0.jpg	Is the actor inside the red bounding box named Julie Andrews? Please answer yes or no.	Yes	Yes.
+tt0058331_shot_0353_img_0.jpg	Is the actor inside the red bounding box named Ed Geldart? Please answer yes or no.	No	No, the image is not of Ed Geldart. It is of Audrey Hepburn as Eliza Doolittle from the film "My Fair Lady."
+tt0119643_shot_0330_img_0.jpg	Is the actor inside the red bounding box named Brad Pitt? Please answer yes or no.	Yes	Yes.
+tt0119643_shot_0330_img_0.jpg	Is the actor inside the red bounding box named Anthony Hopkins? Please answer yes or no.	No	No, the actor inside the red bounding box is not Anthony Hopkins. The man is indeed named Anthony Hopkins, but the person inside the box is Brandon Routh from the film "Zack and Miri Make a Porno."
+tt0057115_shot_0686_img_0.jpg	Is the person inside the red bounding box named James Garner? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is James Garner.
+tt0057115_shot_0686_img_0.jpg	Is the person inside the red bounding box named Chutimon Chuengcharoensukying? Please answer yes or no.	No	No, the person inside the red bounding box is not Chutimon Chuengcharoensukying. The person appears to be an actor, likely from a film or television series, but without more context, it's not possible to determine his identity.
+tt0073629_shot_0700_img_0.jpg	Is the person inside the red bounding box named Barry Bostwick? Please answer yes or no.	Yes	Yes.
+tt0073629_shot_0700_img_0.jpg	Is the person inside the red bounding box named Johnny Galecki? Please answer yes or no.	No	Yes.
+tt0117500_shot_2467_img_0.jpg	Is the actor inside the red bounding box called Ed Harris? Please answer yes or no.	Yes	Yes.
+tt0117500_shot_2467_img_0.jpg	Is the actor inside the red bounding box called Paul J.Q. Lee? Please answer yes or no.	No	No, the man inside the red bounding box is not Paul J.Q. Lee. He appears to be another character from a film or television series, but the name you've mentioned isn't associated with this image.
+tt0082971_shot_0831_img_0.jpg	Is the actor inside the red bounding box called Harrison Ford? Please answer yes or no.	Yes	No, the image inside the red bounding box is of actor Josh Brolin, not Harrison Ford.
+tt0082971_shot_0831_img_0.jpg	Is the actor inside the red bounding box called Richard Angarola? Please answer yes or no.	No	No, the image inside the red bounding box is of actor Chris Pratt from a scene, not Richard Angarola.
+tt0093748_shot_0346_img_0.jpg	Is the actor inside the red bounding box called John Candy? Please answer yes or no.	Yes	Yes.
+tt0093748_shot_0346_img_0.jpg	Is the actor inside the red bounding box called Sarah Heller? Please answer yes or no.	No	No, the image you've provided is not Sarah Heller. It is a man with curly hair.
+tt0118636_shot_0007_img_1.jpg	Is the person inside the red bounding box called Brad Renfro? Please answer yes or no.	Yes	Yes.
+tt0118636_shot_0007_img_1.jpg	Is the person inside the red bounding box called Sandra Park? Please answer yes or no.	No	No.
+tt0032138_shot_0395_img_0.jpg	Is the actor inside the red bounding box named Frank Morgan? Please answer yes or no.	Yes	No, the person in the image is not Frank Morgan. Frank Morgan is known for his roles in classic Hollywood films. The character in the image appears to be from a different production.
+tt0032138_shot_0395_img_0.jpg	Is the actor inside the red bounding box named Eric Schniewind? Please answer yes or no.	No	No, the image is not of Eric Schniewind. Eric Schniewind is known for his role as Riff in the original "Rocky Horror Picture Show." The person in this image appears to be dressed as a character from a different version or a different production.
+tt0049730_shot_0273_img_0.jpg	Is the person inside the red bounding box called Vera Miles? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Vera Miles.
+tt0049730_shot_0273_img_0.jpg	Is the person inside the red bounding box called Addie Yungmee? Please answer yes or no.	No	Yes, the person inside the red bounding box is called Addie Yungmee.
+tt0065214_shot_0366_img_0.jpg	Is the person inside the red bounding box called Robert Ryan? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Robert Ryan.
+tt0065214_shot_0366_img_0.jpg	Is the person inside the red bounding box called Victor Verhaeghe? Please answer yes or no.	No	No, the person inside the red bounding box is not named Victor Verhaeghe. It's an image of a man wearing a cowboy hat. If you have more context, I might be able to identify the person from the image, but there isn't enough information given in this frame to confirm the identity.
+tt0083658_shot_0963_img_0.jpg	Is the person inside the red bounding box called Rutger Hauer? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Rutger Hauer.
+tt0083658_shot_0963_img_0.jpg	Is the person inside the red bounding box called Stéphane Julien? Please answer yes or no.	No	No, the person inside the red bounding box is not Stéphane Julien. The individual appears to be an actor in a film or television show.
+tt0070379_shot_0569_img_0.jpg	Is the actor inside the red bounding box named Richard Romanus? Please answer yes or no.	Yes	Yes.
+tt0070379_shot_0569_img_0.jpg	Is the actor inside the red bounding box named Valerie Colgan? Please answer yes or no.	No	No. The image inside the red bounding box features a man, not Valerie Colgan.
+tt0074119_shot_0814_img_0.jpg	Is the actor inside the red bounding box called Robert Redford? Please answer yes or no.	Yes	Yes.
+tt0074119_shot_0814_img_0.jpg	Is the actor inside the red bounding box called Delroy Lindo? Please answer yes or no.	No	No, the actor inside the red bounding box is not Delroy Lindo. It appears to be another man wearing a striped shirt, looking serious or contemplative.
+tt0119094_shot_0446_img_2.jpg	Is the actor inside the red bounding box called Nicolas Cage? Please answer yes or no.	Yes	Yes.
+tt0119094_shot_0446_img_2.jpg	Is the actor inside the red bounding box called Juan Gabriel Pareja? Please answer yes or no.	No	No, the image provided is not of Juan Gabriel Pareja. It appears to be a man holding a gun, but the face does not match the description provided. If you have the name of the actor or additional context, I might be able to identify him correctly.
+tt0087469_shot_0049_img_2.jpg	Is the person inside the red bounding box named Harrison Ford? Please answer yes or no.	Yes	Yes.
+tt0087469_shot_0049_img_2.jpg	Is the person inside the red bounding box named Paulo Benedeti? Please answer yes or no.	No	Yes.
+tt0069762_shot_0723_img_0.jpg	Is the person inside the red bounding box named Sissy Spacek? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is indeed Sissy Spacek.
+tt0069762_shot_0723_img_0.jpg	Is the person inside the red bounding box named Monica Giordano? Please answer yes or no.	No	Yes.
+tt0105665_shot_0351_img_0.jpg	Is the actor inside the red bounding box named Kyle MacLachlan? Please answer yes or no.	Yes	Yes.
+tt0105665_shot_0351_img_0.jpg	Is the actor inside the red bounding box named Julia Hsu? Please answer yes or no.	No	No.
+tt0109831_shot_0298_img_0.jpg	Is the person inside the red bounding box called Hugh Grant? Please answer yes or no.	Yes	Yes.
+tt0109831_shot_0298_img_0.jpg	Is the person inside the red bounding box called Renée Zellweger? Please answer yes or no.	No	No, the person inside the red bounding box is not Renée Zellweger. The person appears to be a male actor wearing a suit and smiling.
+tt0079417_shot_0735_img_0.jpg	Is the actor inside the red bounding box called Meryl Streep? Please answer yes or no.	Yes	No, the image inside the red bounding box is not of Meryl Streep. It appears to be a woman from a film or television series.
+tt0079417_shot_0735_img_0.jpg	Is the actor inside the red bounding box called Ross Lacy? Please answer yes or no.	No	No, the image is of actress Monica Potter, not Ross Lacy.
+tt0074285_shot_0535_img_1.jpg	Is the person inside the red bounding box named William Katt? Please answer yes or no.	Yes	Yes.
+tt0074285_shot_0535_img_1.jpg	Is the person inside the red bounding box named Stephen Rider? Please answer yes or no.	No	Yes.
+tt0097216_shot_0381_img_0.jpg	Is the actor inside the red bounding box named Danny Aiello? Please answer yes or no.	Yes	Yes, the man inside the red bounding box is Danny Aiello.
+tt0097216_shot_0381_img_0.jpg	Is the actor inside the red bounding box named Taissa Farmiga? Please answer yes or no.	No	No, the man inside the red bounding box is not Taissa Farmiga. He appears to be an older adult male.
+tt0067116_shot_0122_img_0.jpg	Is the actor inside the red bounding box called Gene Hackman? Please answer yes or no.	Yes	Yes, the man inside the red bounding box is indeed Gene Hackman, known for his roles in films.
+tt0067116_shot_0122_img_0.jpg	Is the actor inside the red bounding box called Russell G. Jones? Please answer yes or no.	No	Yes, the man inside the red bounding box is indeed Russell G. Jones, as identified by the context of the image and the resemblance to his facial features.
+tt0093773_shot_0212_img_0.jpg	Is the person inside the red bounding box named Jesse Ventura? Please answer yes or no.	Yes	Yes.
+tt0093773_shot_0212_img_0.jpg	Is the person inside the red bounding box named Akio Mitamura? Please answer yes or no.	No	No, the person in the image is not named Akio Mitamura. He appears to be portraying a character in a film or television series, possibly from a military or outdoor setting.
+tt0090756_shot_0135_img_0.jpg	Is the person inside the red bounding box named Laura Dern? Please answer yes or no.	Yes	Yes.
+tt0090756_shot_0135_img_0.jpg	Is the person inside the red bounding box named Keith Frost? Please answer yes or no.	No	Yes.
+tt0118636_shot_0344_img_0.jpg	Is the actor inside the red bounding box called Brad Renfro? Please answer yes or no.	Yes	Yes, the young male actor inside the red bounding box appears to be Brad Renfro, known for his roles in films like "A Bronx Tale" and "Gang Related."
+tt0118636_shot_0344_img_0.jpg	Is the actor inside the red bounding box called Karen Strassman? Please answer yes or no.	No	No, the image inside the red bounding box is not of Karen Strassman. The bounding box contains a young male face, but not the character or person identified by Karen Strassman.
+tt0091042_shot_0098_img_0.jpg	Is the person inside the red bounding box called Matthew Broderick? Please answer yes or no.	Yes	Yes.
+tt0091042_shot_0098_img_0.jpg	Is the person inside the red bounding box called Mina E. Mina? Please answer yes or no.	No	No, the person inside the red bounding box is not Mina E. Mina. It's a shirtless male giving a thumbs-up gesture.
+tt0099685_shot_1132_img_0.jpg	Is the actor inside the red bounding box called Ray Liotta? Please answer yes or no.	Yes	Yes, the image appears to be of Ray Liotta in an orange prison uniform.
+tt0099685_shot_1132_img_0.jpg	Is the actor inside the red bounding box called Chick Allan? Please answer yes or no.	No	Yes, the man inside the red bounding box is actor Chick Allan.
+tt0118655_shot_0279_img_0.jpg	Is the person inside the red bounding box called Robert Wagner? Please answer yes or no.	Yes	Yes.
+tt0118655_shot_0279_img_0.jpg	Is the person inside the red bounding box called Arthur Birnbaum? Please answer yes or no.	No	Yes.
+tt0086250_shot_1079_img_0.jpg	Is the actor inside the red bounding box called Steven Bauer? Please answer yes or no.	Yes	Yes, the man inside the red bounding box is named Steven Bauer.
+tt0086250_shot_1079_img_0.jpg	Is the actor inside the red bounding box called Bill Nunn? Please answer yes or no.	No	Yes.
+tt0119116_shot_0721_img_0.jpg	Is the actor inside the red bounding box called Bruce Willis? Please answer yes or no.	Yes	Yes.
+tt0119116_shot_0721_img_0.jpg	Is the actor inside the red bounding box called Troye Sivan? Please answer yes or no.	No	No, the man inside the red bounding box is not Troye Sivan. This is a scene from a film or TV show, but the man is not an actor with a well-known public identity that can be confidently identified from this image.
+tt0080339_shot_0711_img_0.jpg	Is the actor inside the red bounding box named Robert Hays? Please answer yes or no.	Yes	Yes.
+tt0080339_shot_0711_img_0.jpg	Is the actor inside the red bounding box named Grace Sullivan? Please answer yes or no.	No	No.
+tt0088944_shot_0634_img_0.jpg	Is the actor inside the red bounding box named Arnold Schwarzenegger? Please answer yes or no.	Yes	Yes, the image inside the red bounding box is indeed Arnold Schwarzenegger.
+tt0088944_shot_0634_img_0.jpg	Is the actor inside the red bounding box named Shaine Jones? Please answer yes or no.	No	No. The image is of Arnold Schwarzenegger, not Shaine Jones.
+tt0103776_shot_0719_img_0.jpg	Is the person inside the red bounding box called Michael Keaton? Please answer yes or no.	Yes	No, the person inside the red bounding box is not Michael Keaton. It's a female character wearing a Cat Noir costume, likely from a superhero television show or film.
+tt0103776_shot_0719_img_0.jpg	Is the person inside the red bounding box called Nicholas Rice? Please answer yes or no.	No	No, the person inside the red bounding box is not Nicholas Rice. It is a character dressed in a Batgirl costume, as seen in a film or a television series.
+tt0080684_shot_1574_img_2.jpg	Is the actor inside the red bounding box called Mark Hamill? Please answer yes or no.	Yes	No.
+tt0080684_shot_1574_img_2.jpg	Is the actor inside the red bounding box called Rodion Salnikov? Please answer yes or no.	No	No, the actor in the image is not Rodion Salnikov. Rodion Salnikov is a character portrayed by actor Jake Lloyd in the "Star Wars" prequel film "Star Wars: Episode I – The Phantom Menace." The character you are referring to is from the same movie.
+tt0118749_shot_0795_img_0.jpg	Is the person inside the red bounding box called John C. Reilly? Please answer yes or no.	Yes	Yes.
+tt0118749_shot_0795_img_0.jpg	Is the person inside the red bounding box called Chris Lowell? Please answer yes or no.	No	No, the person inside the red bounding box is not called Chris Lowell. It appears to be another actor from a film or TV show, but it's not the character played by Chris Lowell.
+tt0119528_shot_0171_img_0.jpg	Is the person inside the red bounding box called Jim Carrey? Please answer yes or no.	Yes	No, the person inside the red bounding box is not Jim Carrey. He appears to be another actor in a television show or movie scene.
+tt0119528_shot_0171_img_0.jpg	Is the person inside the red bounding box called Eliot Paton? Please answer yes or no.	No	Yes.
+tt0119738_shot_0201_img_0.jpg	Is the person inside the red bounding box named Christopher Masterson? Please answer yes or no.	Yes	Yes.
+tt0119738_shot_0201_img_0.jpg	Is the person inside the red bounding box named Edwin Craig? Please answer yes or no.	No	Yes.
+tt0084726_shot_0283_img_0.jpg	Is the actor inside the red bounding box named Leonard Nimoy? Please answer yes or no.	Yes	Yes.
+tt0084726_shot_0283_img_0.jpg	Is the actor inside the red bounding box named John Cusack? Please answer yes or no.	No	No, the image is of William Shatner, known for his role as Captain James T. Kirk in the "Star Trek" franchise.
+tt0112641_shot_0412_img_1.jpg	Is the actor inside the red bounding box called Robert De Niro? Please answer yes or no.	Yes	Yes, the image inside the red bounding box appears to be of Robert De Niro.
+tt0112641_shot_0412_img_1.jpg	Is the actor inside the red bounding box called Pierre Malherbe? Please answer yes or no.	No	No, the actor inside the red bounding box is not Pierre Malherbe. The image appears to be from a film or television show featuring two characters, but it doesn't match the name of Pierre Malherbe as far as I can identify from this image.
+tt0077651_shot_0133_img_0.jpg	Is the person inside the red bounding box called Jamie Lee Curtis? Please answer yes or no.	Yes	Yes.
+tt0077651_shot_0133_img_0.jpg	Is the person inside the red bounding box called Paris Arrowsmith? Please answer yes or no.	No	Yes, the person inside the red bounding box is referred to as Paris Arrowsmith in the context of this image.
+tt0114369_shot_1138_img_0.jpg	Is the person inside the red bounding box named Brad Pitt? Please answer yes or no.	Yes	No, the person inside the red bounding box is not Brad Pitt. It's actually Denzel Washington, a well-known actor.
+tt0114369_shot_1138_img_0.jpg	Is the person inside the red bounding box named Benjamin Nitze? Please answer yes or no.	No	Yes.
+tt0091738_shot_0073_img_1.jpg	Is the actor inside the red bounding box called Kathleen Turner? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Kathleen Turner.
+tt0091738_shot_0073_img_1.jpg	Is the actor inside the red bounding box called Pat Kiernan? Please answer yes or no.	No	No, the image inside the red bounding box is of an actress, not Pat Kiernan.
+tt0093565_shot_0409_img_0.jpg	Is the actor inside the red bounding box named Cher? Please answer yes or no.	Yes	Yes.
+tt0093565_shot_0409_img_0.jpg	Is the actor inside the red bounding box named Mark Brady? Please answer yes or no.	No	No, the image is of a woman with curly hair and glasses, not a man named Mark Brady.
+tt0086856_shot_0929_img_0.jpg	Is the actor inside the red bounding box called Peter Weller? Please answer yes or no.	Yes	Yes.
+tt0086856_shot_0929_img_0.jpg	Is the actor inside the red bounding box called Tracee Cocco? Please answer yes or no.	No	No, the actor inside the red bounding box is not Tracee Cocco. It's a man with brown hair, looking slightly away from the camera with a thoughtful or perhaps puzzled expression.
+tt0066026_shot_0085_img_0.jpg	Is the person inside the red bounding box called Donald Sutherland? Please answer yes or no.	Yes	No, the person inside the red bounding box is not Donald Sutherland. It appears to be another actor from a film or television series.
+tt0066026_shot_0085_img_0.jpg	Is the person inside the red bounding box called Michael Wollet? Please answer yes or no.	No	Yes.
+tt0111280_shot_0258_img_0.jpg	Is the actor inside the red bounding box named Gates McFadden? Please answer yes or no.	Yes	No, the image is from a film, and the woman wearing military attire is not Gates McFadden.
+tt0111280_shot_0258_img_0.jpg	Is the actor inside the red bounding box named Michael Angarano? Please answer yes or no.	No	No, the actor inside the red bounding box is not Michael Angarano. He appears to be playing a historical naval officer's role, wearing a hat and possibly a uniform.
+tt0097576_shot_1010_img_2.jpg	Is the actor inside the red bounding box named Harrison Ford? Please answer yes or no.	Yes	Yes.
+tt0097576_shot_1010_img_2.jpg	Is the actor inside the red bounding box named M. Emmet Walsh? Please answer yes or no.	No	Yes, the image is from a scene featuring M. Emmet Walsh.
+tt0095250_shot_0509_img_0.jpg	Is the actor inside the red bounding box named Jean Reno? Please answer yes or no.	Yes	No, Jean Reno is not the actor inside the red bounding box. The man in the image is wearing sunglasses and a floral shirt, but his appearance and context do not match the image of Jean Reno, who is a French actor known for his role as Mr. Clean in "GoldenEye."
+tt0095250_shot_0509_img_0.jpg	Is the actor inside the red bounding box named Ralph Meyering Jr.? Please answer yes or no.	No	No, the image shows two men wearing sunglasses. It does not appear to be a character named Ralph Meyering Jr.
+tt0117060_shot_1401_img_0.jpg	Is the actor inside the red bounding box called Jean Reno? Please answer yes or no.	Yes	Yes, the image within the red bounding box appears to be Jean Reno, known for his roles in various movies, including "Léon: The Professional."
+tt0117060_shot_1401_img_0.jpg	Is the actor inside the red bounding box called Jill Teed? Please answer yes or no.	No	No, the actor inside the red bounding box is not Jill Teed. It appears to be a man with a beard and earpieces, but that's not a name commonly associated with the actor you mentioned.
+tt0099810_shot_0285_img_0.jpg	Is the person inside the red bounding box called Alec Baldwin? Please answer yes or no.	Yes	Yes.
+tt0099810_shot_0285_img_0.jpg	Is the person inside the red bounding box called Jennifer Anglin? Please answer yes or no.	No	No, the person inside the red bounding box is not Jennifer Anglin. It's a man with dark hair and a serious expression.
+tt0118571_shot_0627_img_0.jpg	Is the actor inside the red bounding box called Glenn Close? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Glenn Close.
+tt0118571_shot_0627_img_0.jpg	Is the actor inside the red bounding box called Arlene Farber? Please answer yes or no.	No	Yes.
+tt0096895_shot_0819_img_1.jpg	Is the person inside the red bounding box called Michael Keaton? Please answer yes or no.	Yes	Yes.
+tt0096895_shot_0819_img_1.jpg	Is the person inside the red bounding box called Ben Foster? Please answer yes or no.	No	Yes.
+tt0105695_shot_1436_img_1.jpg	Is the person inside the red bounding box called Jaimz Woolvett? Please answer yes or no.	Yes	Yes.
+tt0105695_shot_1436_img_1.jpg	Is the person inside the red bounding box called Hermione Baddeley? Please answer yes or no.	No	No, the person inside the red bounding box is not Hermione Baddeley. It appears to be a man wearing a cowboy hat, likely from a film or television series, but it is not the character you've identified.
+tt0096754_shot_0570_img_1.jpg	Is the person inside the red bounding box named Todd Graff? Please answer yes or no.	Yes	Yes.
+tt0096754_shot_0570_img_1.jpg	Is the person inside the red bounding box named Guy Carleton? Please answer yes or no.	No	No, the person inside the red bounding box is not named Guy Carleton. It appears to be a man smiling, but without additional context, I am not able to identify the individual.
+tt0119008_shot_0979_img_0.jpg	Is the actor inside the red bounding box named Al Pacino? Please answer yes or no.	Yes	Yes.
+tt0119008_shot_0979_img_0.jpg	Is the actor inside the red bounding box named Neil Tweddle? Please answer yes or no.	No	Yes.
+tt0095765_shot_0008_img_0.jpg	Is the actor inside the red bounding box called Antonella Attili? Please answer yes or no.	Yes	Yes, the image of the woman inside the red bounding box is indeed Antonella Attili.
+tt0095765_shot_0008_img_0.jpg	Is the actor inside the red bounding box called Amber Estrada? Please answer yes or no.	No	No, the person in the image is not called Amber Estrada. It appears to be a woman looking thoughtful or contemplative. If you have more information or need details about another image, feel free to ask!
+tt0100403_shot_0517_img_0.jpg	Is the person inside the red bounding box called Gary Busey? Please answer yes or no.	Yes	Yes.
+tt0100403_shot_0517_img_0.jpg	Is the person inside the red bounding box called Alfred Tiaki Hotu? Please answer yes or no.	No	Yes, the person inside the red bounding box is Alfred Tiaki Hotu.
+tt0064115_shot_0367_img_0.jpg	Is the actor inside the red bounding box named Robert Redford? Please answer yes or no.	Yes	Yes, the image inside the red bounding box appears to be Robert Redford, known for his role in "Butch Cassidy and the Sundance Kid."
+tt0064115_shot_0367_img_0.jpg	Is the actor inside the red bounding box named Cooper Murray? Please answer yes or no.	No	Yes.
+tt0056923_shot_0835_img_0.jpg	Is the actor inside the red bounding box called Audrey Hepburn? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Audrey Hepburn.
+tt0056923_shot_0835_img_0.jpg	Is the actor inside the red bounding box called Chris April? Please answer yes or no.	No	No, the image shows an actress and not an actor named Chris April.
+tt0097428_shot_0106_img_0.jpg	Is the actor inside the red bounding box named Bill Murray? Please answer yes or no.	Yes	Yes.
+tt0097428_shot_0106_img_0.jpg	Is the actor inside the red bounding box named Michael Fawcett? Please answer yes or no.	No	Yes.
+tt0108399_shot_0778_img_0.jpg	Is the actor inside the red bounding box called Christopher Walken? Please answer yes or no.	Yes	Yes.
+tt0108399_shot_0778_img_0.jpg	Is the actor inside the red bounding box called Fiona Sit? Please answer yes or no.	No	No.
+tt0088847_shot_0109_img_0.jpg	Is the actor inside the red bounding box named Anthony Michael Hall? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Anthony Michael Hall.
+tt0088847_shot_0109_img_0.jpg	Is the actor inside the red bounding box named Luis Javier? Please answer yes or no.	No	No, the actor inside the red bounding box is not named Luis Javier. It appears to be a young actor in a scene from a movie or TV show. If you provide me with the name or the character, I might be able to confirm if it's him or someone else.
+tt0092699_shot_0208_img_0.jpg	Is the actor inside the red bounding box called William Hurt? Please answer yes or no.	Yes	Yes, the image inside the red bounding box is indeed William H Macy, as identified by his facial features.
+tt0092699_shot_0208_img_0.jpg	Is the actor inside the red bounding box called Hildur Ruriks? Please answer yes or no.	No	No, the image inside the red bounding box shows a man, but it's not an actor named Hildur Ruriks.
+tt0091867_shot_0422_img_2.jpg	Is the person inside the red bounding box named Simon Callow? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Simon Callow.
+tt0091867_shot_0422_img_2.jpg	Is the person inside the red bounding box named Rusty Goffe? Please answer yes or no.	No	Yes.
+tt0117381_shot_0798_img_1.jpg	Is the person inside the red bounding box called Edward Norton? Please answer yes or no.	Yes	Yes.
+tt0117381_shot_0798_img_1.jpg	Is the person inside the red bounding box called Michael Tezla? Please answer yes or no.	No	No.
+tt0066921_shot_0631_img_0.jpg	Is the actor inside the red bounding box called Malcolm McDowell? Please answer yes or no.	Yes	No, the man in the image is not Malcolm McDowell. It's not possible to definitively identify the actor without further context, but he doesn't match McDowell's distinctive facial features, such as the shape of the eyebrows or the overall expression.
+tt0066921_shot_0631_img_0.jpg	Is the actor inside the red bounding box called Darling Légitimus? Please answer yes or no.	No	No. The actor in the image is not inside the red bounding box called "Darling Légitimus." The actor appears to be lying in bed with a white cervical collar on his neck, but the red box is drawn around a different area of the image.
+tt0090022_shot_0464_img_0.jpg	Is the actor inside the red bounding box called Scott Glenn? Please answer yes or no.	Yes	Yes.
+tt0090022_shot_0464_img_0.jpg	Is the actor inside the red bounding box called Robert Ryan? Please answer yes or no.	No	Yes, the image of the man wearing a cowboy hat and a beige coat inside the red bounding box is indeed actor Robert Ryan, known for his roles in Western films.
+tt0083866_shot_0364_img_0.jpg	Is the actor inside the red bounding box called Robert MacNaughton? Please answer yes or no.	Yes	Yes.
+tt0083866_shot_0364_img_0.jpg	Is the actor inside the red bounding box called Seam Turay? Please answer yes or no.	No	Yes.
+tt0076759_shot_0930_img_0.jpg	Is the actor inside the red bounding box called Harrison Ford? Please answer yes or no.	Yes	No.
+tt0076759_shot_0930_img_0.jpg	Is the actor inside the red bounding box called Ryoko Sadoshima? Please answer yes or no.	No	No.
+tt0077416_shot_1442_img_0.jpg	Is the person inside the red bounding box named Robert De Niro? Please answer yes or no.	Yes	Yes.
+tt0077416_shot_1442_img_0.jpg	Is the person inside the red bounding box named Stu Smith? Please answer yes or no.	No	No.
+tt0104257_shot_0477_img_0.jpg	Is the person inside the red bounding box named Jack Nicholson? Please answer yes or no.	Yes	Yes.
+tt0104257_shot_0477_img_0.jpg	Is the person inside the red bounding box named Emma Julia Jacobs? Please answer yes or no.	No	No.
+tt0117571_shot_0475_img_0.jpg	Is the person inside the red bounding box named Neve Campbell? Please answer yes or no.	Yes	Yes.
+tt0117571_shot_0475_img_0.jpg	Is the person inside the red bounding box named Frank Hoyt Taylor? Please answer yes or no.	No	Yes.
+tt0106977_shot_1604_img_0.jpg	Is the person inside the red bounding box named Tommy Lee Jones? Please answer yes or no.	Yes	Yes.
+tt0106977_shot_1604_img_0.jpg	Is the person inside the red bounding box named Honey Chhaya? Please answer yes or no.	No	No, the person inside the red bounding box is not named Honey Chhaya. It is a man with short dark hair and a suit and tie, appearing to be engaged in a conversation.
+tt0054167_shot_0122_img_0.jpg	Is the person inside the red bounding box called Anna Massey? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Anna Massey.
+tt0054167_shot_0122_img_0.jpg	Is the person inside the red bounding box called Eddie Tagoe? Please answer yes or no.	No	No, the person inside the red bounding box is a woman with red hair, not a man. Her name is not Eddie Tagoe.
+tt0089881_shot_0034_img_0.jpg	Is the actor inside the red bounding box called Tatsuya Nakadai? Please answer yes or no.	Yes	No, the image shows an elderly man dressed in traditional attire sitting in meditation, not the actor Tatsuya Nakadai.
+tt0089881_shot_0034_img_0.jpg	Is the actor inside the red bounding box called Nancy Vee? Please answer yes or no.	No	No.
+tt0103064_shot_1206_img_0.jpg	Is the actor inside the red bounding box named Arnold Schwarzenegger? Please answer yes or no.	Yes	Yes.
+tt0103064_shot_1206_img_0.jpg	Is the actor inside the red bounding box named Gigi Lee? Please answer yes or no.	No	No, the image shows an actor wearing a device in his head, but there's no indication that his name is Gigi Lee. The bounding box suggests that the image is from a film or television show, and the name Gigi Lee might refer to a character or a crew member in the context of the scene depicted.
+tt0087332_shot_0798_img_0.jpg	Is the person inside the red bounding box called Bill Murray? Please answer yes or no.	Yes	Yes.
+tt0087332_shot_0798_img_0.jpg	Is the person inside the red bounding box called Jiao Xu? Please answer yes or no.	No	No, the person inside the red bounding box is not Jiao Xu. The person on the left appears to be Jim Carrey, and the person on the right seems to be another actor from the same scene or movie.
+tt0038650_shot_0737_img_1.jpg	Is the person inside the red bounding box called James Stewart? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is James Stewart.
+tt0038650_shot_0737_img_1.jpg	Is the person inside the red bounding box called Phil Selway? Please answer yes or no.	No	No, the person inside the red bounding box is not Phil Selway. He appears to be an actor from a film, but it's not a recognizable name from that particular context.
+tt0117060_shot_0412_img_0.jpg	Is the actor inside the red bounding box called Tom Cruise? Please answer yes or no.	Yes	Yes, the image inside the red bounding box appears to be of Tom Cruise.
+tt0117060_shot_0412_img_0.jpg	Is the actor inside the red bounding box called Carrie Lazar? Please answer yes or no.	No	No, the image is not Carrie-Anne Moss, known for her role in the "Matrix" series. This appears to be a screenshot of another actor from another movie.
+tt0081505_shot_0449_img_0.jpg	Is the actor inside the red bounding box called Shelley Duvall? Please answer yes or no.	Yes	Yes, the image appears to be from a scene where Shelley Duvall is holding a bat.
+tt0081505_shot_0449_img_0.jpg	Is the actor inside the red bounding box called Antony Carrick? Please answer yes or no.	No	No, the image shows a woman holding a bat, but the man named Anthony Carrick is not depicted in this frame.
+tt0118655_shot_1152_img_2.jpg	Is the actor inside the red bounding box called Seth Green? Please answer yes or no.	Yes	No, the image is from a film scene featuring an actor with a bald head, but it is not Seth Green. He appears to be inside the red bounding box, but Seth Green is known for his role as Oz in "Buffy the Vampire Slayer."
+tt0118655_shot_1152_img_2.jpg	Is the actor inside the red bounding box called Sue Doucette? Please answer yes or no.	No	No, the image is from the movie "Minority Report," featuring actor Jeffrey Goins as Captain John Anderton. Sue Doucette is the actor known for her role as Agatha in that film.
+tt0073195_shot_0280_img_0.jpg	Is the actor inside the red bounding box named Roy Scheider? Please answer yes or no.	Yes	Yes.
+tt0073195_shot_0280_img_0.jpg	Is the actor inside the red bounding box named Abdul Qadir Farookh? Please answer yes or no.	No	No.
+tt0115798_shot_0844_img_1.jpg	Is the person inside the red bounding box named Jim Carrey? Please answer yes or no.	Yes	Yes.
+tt0115798_shot_0844_img_1.jpg	Is the person inside the red bounding box named Renee Herlocker? Please answer yes or no.	No	Yes.
+tt0116367_shot_0755_img_0.jpg	Is the actor inside the red bounding box named George Clooney? Please answer yes or no.	Yes	Yes.
+tt0116367_shot_0755_img_0.jpg	Is the actor inside the red bounding box named Ben Crowley? Please answer yes or no.	No	Yes.
+tt0114388_shot_1207_img_1.jpg	Is the person inside the red bounding box called Hugh Grant? Please answer yes or no.	Yes	Yes.
+tt0114388_shot_1207_img_1.jpg	Is the person inside the red bounding box called Zach Hopkins? Please answer yes or no.	No	No, the person inside the red bounding box is not Zach Hopkins. It appears to be a character portrayed by someone, possibly a male actor, dressed in period attire with a white cravat and a brown coat.
+tt0098635_shot_0556_img_0.jpg	Is the actor inside the red bounding box named Meg Ryan? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Meg Ryan.
+tt0098635_shot_0556_img_0.jpg	Is the actor inside the red bounding box named Tom Branch? Please answer yes or no.	No	No, the image inside the red bounding box is of a woman with curly blonde hair and a white blouse. It's not Tom Branch.
+tt0077402_shot_1220_img_0.jpg	Is the person inside the red bounding box named Scott H. Reiniger? Please answer yes or no.	Yes	Yes.
+tt0077402_shot_1220_img_0.jpg	Is the person inside the red bounding box named Chris Delaney? Please answer yes or no.	No	No, the person in the image is not named Chris Delaney.
+tt0053221_shot_0197_img_0.jpg	Is the actor inside the red bounding box named John Wayne? Please answer yes or no.	Yes	Yes, the man inside the red bounding box is John Wayne.
+tt0053221_shot_0197_img_0.jpg	Is the actor inside the red bounding box named Claude-Oliver Rudolph? Please answer yes or no.	No	No, the image is not Claude-Oliver Rudolph. It appears to be John Wayne, known for his cowboy roles, sitting at a table.
+tt0078841_shot_0692_img_0.jpg	Is the actor inside the red bounding box named Shirley MacLaine? Please answer yes or no.	Yes	Yes, the woman inside the red bounding box is Shirley MacLaine.
+tt0078841_shot_0692_img_0.jpg	Is the actor inside the red bounding box named Tomas Choy? Please answer yes or no.	No	No.
+tt0119314_shot_0572_img_0.jpg	Is the actor inside the red bounding box called Scarlett Johansson? Please answer yes or no.	Yes	Yes.
+tt0119314_shot_0572_img_0.jpg	Is the actor inside the red bounding box called Daisy Beaumont? Please answer yes or no.	No	Yes.
+tt0083907_shot_0633_img_0.jpg	Is the actor inside the red bounding box named Bruce Campbell? Please answer yes or no.	Yes	No, the image is not of Bruce Campbell. It appears to be a man from a film or television show, but he is not identified as Bruce Campbell.
+tt0083907_shot_0633_img_0.jpg	Is the actor inside the red bounding box named Kaden Leos? Please answer yes or no.	No	No. The man inside the red bounding box is not named Kaden Leos. He is another actor from a different context.
+tt0049470_shot_0279_img_0.jpg	Is the person inside the red bounding box called James Stewart? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is James Stewart.
+tt0049470_shot_0279_img_0.jpg	Is the person inside the red bounding box called Matt Pashkow? Please answer yes or no.	No	Yes.
+tt0120338_shot_0444_img_2.jpg	Is the actor inside the red bounding box named Kate Winslet? Please answer yes or no.	Yes	Yes.
+tt0120338_shot_0444_img_2.jpg	Is the actor inside the red bounding box named Donald Gibb? Please answer yes or no.	No	No, the image shows a woman looking off-camera, and there's a man wearing a red hat partially visible in the background. However, the man inside the red bounding box is not identified as Donald Gibb. Donald Gibb is a character actor and is known for various roles, including "The Nutcracker Prince" and "Honeymooners." It's possible that the character in the image is another actor from a different movie or series.
+tt0100405_shot_0786_img_0.jpg	Is the actor inside the red bounding box named Jason Alexander? Please answer yes or no.	Yes	Yes.
+tt0100405_shot_0786_img_0.jpg	Is the actor inside the red bounding box named Alexandra Bastedo? Please answer yes or no.	No	No, the actor inside the red bounding box is not Alexandra Bastedo.
+tt0113101_shot_0547_img_0.jpg	Is the person inside the red bounding box named Tim Roth? Please answer yes or no.	Yes	Yes.
+tt0113101_shot_0547_img_0.jpg	Is the person inside the red bounding box named Honey Chhaya? Please answer yes or no.	No	No, the person inside the red bounding box is not named Honey Chhaya. It appears to be a man in a blue tuxedo, but that is not a common name.
+tt0062622_shot_0291_img_0.jpg	Is the actor inside the red bounding box named Keir Dullea? Please answer yes or no.	Yes	Yes, the man inside the red bounding box is Keir Dullea.
+tt0062622_shot_0291_img_0.jpg	Is the actor inside the red bounding box named Frank Albanese? Please answer yes or no.	No	No, the image you've provided is of actor Colin Farrell. Colin Farrell is an actor known for his roles in various films.
+tt0102492_shot_0086_img_0.jpg	Is the actor inside the red bounding box called Jamie Lee Curtis? Please answer yes or no.	Yes	Yes, the person inside the red bounding box is Jamie Lee Curtis.
+tt0102492_shot_0086_img_0.jpg	Is the actor inside the red bounding box called Heidi Fischer? Please answer yes or no.	No	Yes.
+tt0096874_shot_0647_img_0.jpg	Is the actor inside the red bounding box named Michael J. Fox? Please answer yes or no.	Yes	No, the image is not Michael J. Fox. The individual in the image appears to be someone else, possibly portraying a different character in a film or television series.
+tt0096874_shot_0647_img_0.jpg	Is the actor inside the red bounding box named Momoko Komatsu? Please answer yes or no.	No	No, the image shows an actor named Jason Bateman. Momoko Komatsu is a character from a different film, TV show, or production.
+tt0098724_shot_0474_img_0.jpg	Is the person inside the red bounding box named Andie MacDowell? Please answer yes or no.	Yes	Yes.
+tt0098724_shot_0474_img_0.jpg	Is the person inside the red bounding box named Linda Taylor? Please answer yes or no.	No	Yes.
+tt0048545_shot_0124_img_0.jpg	Is the actor inside the red bounding box called Natalie Wood? Please answer yes or no.	Yes	Yes, the woman in the red bounding box appears to be Natalie Wood, a famous actress known for her roles in films.
+tt0048545_shot_0124_img_0.jpg	Is the actor inside the red bounding box called Rebecca Jackson Mendoza? Please answer yes or no.	No	No, the actor inside the red bounding box is not Rebecca Jackson Mendoza. The person is portrayed by Marilyn Monroe in a scene from a film.
+tt0118689_shot_0969_img_2.jpg	Is the actor inside the red bounding box called Rowan Atkinson? Please answer yes or no.	Yes	Yes, the actor inside the red bounding box is called Rowan Atkinson.
+tt0118689_shot_0969_img_2.jpg	Is the actor inside the red bounding box called Jack Shields? Please answer yes or no.	No	Yes, the actor inside the red bounding box is Jack Sheldon.
+tt0099487_shot_0123_img_0.jpg	Is the actor inside the red bounding box named Johnny Depp? Please answer yes or no.	Yes	Yes.
+tt0099487_shot_0123_img_0.jpg	Is the actor inside the red bounding box named Farrah Forke? Please answer yes or no.	No	No.
+tt0089218_shot_0327_img_0.jpg	Is the person inside the red bounding box named Sean Astin? Please answer yes or no.	Yes	No, the person inside the red bounding box is not Sean Astin. It appears to be a boy holding an object, possibly a figurine or an artifact, outdoors in a foggy environment, possibly resembling the scene from the movie "The Goonies," but without more specific details, it's not possible to confirm the identity of the individual.
+tt0089218_shot_0327_img_0.jpg	Is the person inside the red bounding box named Dan Hunter? Please answer yes or no.	No	No, the person inside the red bounding box is not named Dan Hunter. The person appears to be a young boy holding something in his hand, possibly a figurine or an object, but without additional context or information, it's not possible to identify the individual.
+tt0082089_shot_0046_img_0.jpg	Is the actor inside the red bounding box named Kathleen Turner? Please answer yes or no.	Yes	Yes, Kathleen Turner is inside the red bounding box in the image.
+tt0082089_shot_0046_img_0.jpg	Is the actor inside the red bounding box named Aaron Henderson? Please answer yes or no.	No	No.

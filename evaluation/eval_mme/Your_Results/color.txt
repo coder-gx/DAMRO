@@ -1,0 +1,60 @@
+000000338560.jpg	Is there a blue and yellow fire hydrant in the image? Please answer yes or no.	Yes	Yes.
+000000338560.jpg	Is there a blue and orange fire hydrant in the image? Please answer yes or no.	No	Yes, there is a blue and orange fire hydrant in the image.
+000000047112.jpg	Is there a white plate in the image? Please answer yes or no.	Yes	Yes
+000000047112.jpg	Is there a yellow plate in the image? Please answer yes or no.	No	No
+000000512929.jpg	Are there any green beans in the image? Please answer yes or no.	Yes	Yes, there are green beans visible in the image.
+000000512929.jpg	Are there any orange beans in the image? Please answer yes or no.	No	No, the beans in the image are green.
+000000038118.jpg	Is there a red coat in the image? Please answer yes or no.	Yes	Yes, there is a person in a red coat skiing in the image.
+000000038118.jpg	Is there a yellow coat in the image? Please answer yes or no.	No	No.
+000000014831.jpg	Is there a brown and white animal in the image? Please answer yes or no.	Yes	Yes.
+000000014831.jpg	Is there a green and red animal in the image? Please answer yes or no.	No	No, there is no animal with green and red fur in this image. It features a close-up of a furry surface, likely a bedspread with a diamond-like pattern, with a cat or dog's fur partially visible at the top left corner.
+000000053529.jpg	Is there a green hat in the image? Please answer yes or no.	Yes	Yes
+000000053529.jpg	Is there a red hat in the image? Please answer yes or no.	No	No
+000000492362.jpg	Is there a skateboard with red wheels in the image? Please answer yes or no.	Yes	Yes, there is a skateboard with red wheels in the image.
+000000492362.jpg	Is there a skateboard with black wheels in the image? Please answer yes or no.	No	Yes, there is a skateboard with black wheels in the image.
+000000008277.jpg	Is there a white plate in the image? Please answer yes or no.	Yes	Yes, there is a white plate in the image.
+000000008277.jpg	Is there a yellow plate in the image? Please answer yes or no.	No	No, the plate in the image is white.
+000000442456.jpg	Is there a man wearing a red shirt in the image? Please answer yes or no.	Yes	Yes, there is a man wearing a red shirt in the image.
+000000442456.jpg	Is there a man wearing a white shirt in the image? Please answer yes or no.	No	No, there is no man wearing a white shirt in the image. There is a man standing next to a white pickup truck that appears to be damaged or modified.
+000000564280.jpg	Is there a red couch in the image? Please answer yes or no.	Yes	Yes.
+000000564280.jpg	Is there a black couch in the image? Please answer yes or no.	No	No, there is no black couch in the image. It is a red couch.
+000000532761.jpg	Is there a living room painted yellow in the image? Please answer yes or no.	Yes	Yes
+000000532761.jpg	Is there a living room painted black in the image? Please answer yes or no.	No	No
+000000410612.jpg	Is there a red boat in the image? Please answer yes or no.	Yes	Yes, there is a red boat in the image.
+000000410612.jpg	Is there a gray boat in the image? Please answer yes or no.	No	No
+000000427034.jpg	Is there a brown and black dog in the image? Please answer yes or no.	Yes	Yes
+000000427034.jpg	Is there a brown and white dog in the image? Please answer yes or no.	No	Yes
+000000563758.jpg	Is there a red scarf in the image?  Please answer yes or no.	Yes	Yes, there is a red scarf in the image.
+000000563758.jpg	Is there a brown scarf in the image?  Please answer yes or no.	No	Yes, there is a brown scarf in the image, which the stuffed animal is wrapped in.
+000000057597.jpg	Are there any red shoes in the image? Please answer yes or no.	Yes	Yes, one of the girls is wearing red shoes while running on the soccer field.
+000000057597.jpg	Are there any yellow shoes in the image? Please answer yes or no.	No	Yes.
+000000534041.jpg	Is there a purple bottle in the image? Please answer yes or no.	Yes	Yes
+000000534041.jpg	Is there a white bottle in the image? Please answer yes or no.	No	No
+000000370208.jpg	Is there a red bicycle with white handlebars in the image? Please answer yes or no.	Yes	Yes, there is a red bicycle with white handlebars in the image.
+000000370208.jpg	Is there a red bicycle with black handlebars in the image? Please answer yes or no.	No	Yes, there is a red bicycle with black handlebars in the image.
+000000053994.jpg	Is there a gray wall in the image? Please answer yes or no.	Yes	Yes.
+000000053994.jpg	Is there a red wall in the image? Please answer yes or no.	No	Yes, there is a red wall in the image, as described in the context.
+000000377723.jpg	Is there a blue bus in the image? Please answer yes or no.	Yes	Yes, there is a blue bus in the image.
+000000377723.jpg	Is there a orange bus in the image? Please answer yes or no.	No	No, there is no orange bus in the image. It appears to be a blue bus parked at a bus stop.
+000000035770.jpg	Is there a black and white toilet in the image? Please answer yes or no.	Yes	Yes, there is a black and white toilet in the image.
+000000035770.jpg	Is there a red and white toilet in the image? Please answer yes or no.	No	Yes, there is a red and white toilet in the image.
+000000006723.jpg	Is there a red brick building in the image? Please answer yes or no.	Yes	Yes, there is a red brick building in the image. It's one of the multi-story buildings along the street.
+000000006723.jpg	Is there a yellow brick building in the image? Please answer yes or no.	No	Yes, there is a yellow brick building visible in the image, located among the multi-story buildings along the city street.
+000000492992.jpg	Is there a white bird in the image? Please answer yes or no.	Yes	Yes.
+000000492992.jpg	Is there a yellow bird in the image? Please answer yes or no.	No	No, there is no yellow bird in the image. The bird perched on the cow's back is white.
+000000055072.jpg	Is there a brown giraffe in the image?  Please answer yes or no.	Yes	Yes.
+000000055072.jpg	Is there a black giraffe in the image? Please answer yes or no.	No	No, there is no black giraffe in the image. The giraffe has a typical spotted coat, which is not black.
+000000405205.jpg	Is there a white bus in the image?  Please answer yes or no.	Yes	Yes
+000000405205.jpg	Is there a red bus in the image?  Please answer yes or no.	No	No, there is no red bus in the image. The buses are green, white, and pink.
+000000012120.jpg	Is there a blue court in the image? Please answer yes or no.	Yes	Yes.
+000000012120.jpg	Is there a purple court in the image? Please answer yes or no.	No	No, the court in the image is blue, not purple.
+000000028993.jpg	Are there yellow poles in the image? Please answer yes or no.	Yes	Yes.
+000000028993.jpg	Are there blue poles in the image? Please answer yes or no.	No	No, there are no blue poles in the image. The poles are gold-colored.
+000000530457.jpg	Are there any red flowers in the image? Please answer yes or no.	Yes	Yes, there are red tulips in the image.
+000000530457.jpg	Are there any green flowers in the image? Please answer yes or no.	No	Yes, there are some green tulips in the image along with the orange ones.
+000000047121.jpg	Is there a black cat in the image? Please answer yes or no.	Yes	Yes
+000000047121.jpg	Is there a brown cat in the image? Please answer yes or no.	No	No
+000000029393.jpg	Is there a brown dog in the image? Please answer yes or no.	Yes	Yes
+000000029393.jpg	Is there a black dog in the image? Please answer yes or no.	No	No.
+000000061658.jpg	Are there a white dish in the image? Please answer yes or no.	Yes	Yes
+000000061658.jpg	Are there a green dish in the image? Please answer yes or no.	No	No

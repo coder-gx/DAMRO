@@ -1,0 +1,60 @@
+000000494427.jpg	Is there a laptop in this image? Please answer yes or no.	Yes	Yes.
+000000494427.jpg	Is there a potted plant in this image? Please answer yes or no.	No	No.
+000000015517.jpg	Is there a bus in this image? Please answer yes or no.	Yes	Yes.
+000000015517.jpg	Is there a cow in this image? Please answer yes or no.	No	No.
+000000009590.jpg	Is there a bottle in this image? Please answer yes or no.	Yes	Yes.
+000000009590.jpg	Is there a scissors in this image? Please answer yes or no.	No	No, there are no scissors in this image. It's a group of people sitting around a table having a meal or a coffee.
+000000530162.jpg	Is there a umbrella in this image? Please answer yes or no.	Yes	Yes, there is a red and black umbrella in this image.
+000000530162.jpg	Is there a horse in this image? Please answer yes or no.	No	No, there is no horse in this image. It shows people under an umbrella on a street at night.
+000000061418.jpg	Is there a chair in this image? Please answer yes or no.	Yes	Yes
+000000061418.jpg	Is there a airplane in this image? Please answer yes or no.	No	No
+000000424521.jpg	Is there a skateboard in this image? Please answer yes or no.	Yes	Yes, there is a skateboard in this image. The person is jumping with their skateboard in the air.
+000000424521.jpg	Is there a banana in this image? Please answer yes or no.	No	No, there is no banana in the image.
+000000007977.jpg	Is there a skateboard in this image? Please answer yes or no.	Yes	Yes, there is a skateboard in this image. The person is performing a trick on a skateboard.
+000000007977.jpg	Is there a spoon in this image? Please answer yes or no.	No	No, there is no spoon in this image. It's a photograph of a person skateboarding on a concrete surface.
+000000050145.jpg	Is there a bicycle in this image? Please answer yes or no.	Yes	Yes, there is a bicycle in the image. The man is riding it on the street.
+000000050145.jpg	Is there a apple in this image? Please answer yes or no.	No	No.
+000000417779.jpg	Is there a car in this image? Please answer yes or no.	Yes	Yes, there is a car in this image, parked at the corner of the street.
+000000417779.jpg	Is there a kite in this image? Please answer yes or no.	No	No.
+000000010363.jpg	Is there a bottle in this image? Please answer yes or no.	Yes	Yes, there is a bottle in this image. It's red and can be seen on a counter or workbench in the background.
+000000010363.jpg	Is there a apple in this image? Please answer yes or no.	No	No.
+000000007108.jpg	Is there a elephant in this image? Please answer yes or no.	Yes	Yes.
+000000007108.jpg	Is there a hair drier in this image? Please answer yes or no.	No	No, there is no hair drier in this image. It features elephants.
+000000006471.jpg	Is there a baseball bat in this image? Please answer yes or no.	Yes	Yes
+000000006471.jpg	Is there a giraffe in this image? Please answer yes or no.	No	No
+000000438304.jpg	Is there a sports ball in this image? Please answer yes or no.	Yes	Yes, there is a sports ball in this image, as the woman is swinging her racket at it.
+000000438304.jpg	Is there a horse in this image? Please answer yes or no.	No	No
+000000008844.jpg	Is there a person in this image? Please answer yes or no.	Yes	Yes
+000000008844.jpg	Is there a sink in this image? Please answer yes or no.	No	No, there is no sink visible in this image. It shows a woman smiling behind a table full of bunches of bananas.
+000000015746.jpg	Is there a fire hydrant in this image? Please answer yes or no.	Yes	Yes, there is a fire hydrant in this image.
+000000015746.jpg	Is there a person in this image? Please answer yes or no.	No	No.
+000000495448.jpg	Is there a cake in this image? Please answer yes or no.	Yes	Yes, there is a cake in this image. It's a three-tiered wedding cake decorated with flowers.
+000000495448.jpg	Is there a tie in this image? Please answer yes or no.	No	Yes, there is a tie on the cake in this image. It's pink and adorns one of the tiers.
+000000006040.jpg	Is there a train in this image? Please answer yes or no.	Yes	Yes, there is a train in this image.
+000000006040.jpg	Is there a bed in this image? Please answer yes or no.	No	No.
+000000537812.jpg	Is there a chair in this image? Please answer yes or no.	Yes	Yes
+000000537812.jpg	Is there a baseball bat in this image? Please answer yes or no.	No	No
+000000011197.jpg	Is there a car in this image? Please answer yes or no.	Yes	Yes, there is a car in this image. It's stopped at an intersection.
+000000011197.jpg	Is there a fork in this image? Please answer yes or no.	No	No.
+000000572956.jpg	Is there a motorcycle in this image? Please answer yes or no.	Yes	Yes
+000000572956.jpg	Is there a bus in this image? Please answer yes or no.	No	No, there is no bus in this image. There are motorcycles parked along a curb.
+000000037751.jpg	Is there a backpack in this image? Please answer yes or no.	Yes	Yes, there is a backpack in this image, resting on the ground near the motorcyclist.
+000000037751.jpg	Is there a microwave in this image? Please answer yes or no.	No	No, there is no microwave in this image.
+000000546626.jpg	Is there a bottle in this image? Please answer yes or no.	Yes	Yes
+000000546626.jpg	Is there a mouse in this image? Please answer yes or no.	No	Yes.
+000000007816.jpg	Is there a motorcycle in this image? Please answer yes or no.	Yes	Yes, there is a motorcycle in the image.
+000000007816.jpg	Is there a airplane in this image? Please answer yes or no.	No	No, there is no airplane in this image. It's a motorcyclist riding down a road, with spectators and a fence in the background.
+000000557258.jpg	Is there a toilet in this image? Please answer yes or no.	Yes	Yes, there is a toilet in this image.
+000000557258.jpg	Is there a pizza in this image? Please answer yes or no.	No	No.
+000000519039.jpg	Is there a truck in this image? Please answer yes or no.	Yes	Yes, there is a truck in this image.
+000000519039.jpg	Is there a book in this image? Please answer yes or no.	No	No
+000000523241.jpg	Is there a car in this image? Please answer yes or no.	Yes	Yes, there is a car in this image. It's driving on the street.
+000000523241.jpg	Is there a cell phone in this image? Please answer yes or no.	No	No.
+000000015254.jpg	Is there a spoon in this image? Please answer yes or no.	Yes	Yes, there is a spoon in this image, placed in one of the green compartments.
+000000015254.jpg	Is there a donut in this image? Please answer yes or no.	No	No, there is no donut in this image. The image shows a variety of foods packed in colorful compartmentalized containers.
+000000556000.jpg	Is there a chair in this image? Please answer yes or no.	Yes	Yes
+000000556000.jpg	Is there a dog in this image? Please answer yes or no.	No	No
+000000541952.jpg	Is there a clock in this image? Please answer yes or no.	Yes	Yes, there is a clock visible in this image, mounted on top of the structure.
+000000541952.jpg	Is there a bottle in this image? Please answer yes or no.	No	No, there is no bottle in this image. It's a clock tower with a cloudy sky in the background.
+000000498463.jpg	Is there a refrigerator in this image? Please answer yes or no.	Yes	Yes
+000000498463.jpg	Is there a donut in this image? Please answer yes or no.	No	No.
