@@ -26,7 +26,7 @@ Hallucination"
 ## 🔥 News
 
 - [x] All code has been uploaded  to GitHub.
-- [x] This is our [Arxiv Paper]([./paper_pdf/ACL_ARR_OCT_preprint.pdf](https://arxiv.org/abs/2410.04514)) Link.
+- [x] This is our [Arxiv Paper](https://arxiv.org/abs/2410.04514) Link.
 - [x] Our paper is accepted by **EMNLP 2024 Main**.
 
   
