@@ -89,7 +89,7 @@ Compared to the original code, the modifications mainly involve three areas:
    [add parameters](https://github.com/coder-gx/DAMRO/tree/main/transformers-4.43.0/src/transformers/generation/utils.py#L1588-L1592) and
    [transfer parameters](https://github.com/coder-gx/DAMRO/tree/main/transformers-4.43.0/src/transformers/generation/utils.py#L2003-L2007).
 
-3. **Replace the `_sample.py` function implementation** in
+3. **Replace the `_sample()` function implementation** in
    [sample.py](./sample_method/sample.py).
 
 ### Start Inference
